@@ -6,9 +6,9 @@
 
 ### About 📌
 
-### ✔  **Domain :** Full-Stack Web Development 💻
+### ✔  **💻 Domain :** Full-Stack Web Development 
 ### ✔  **🔧 Front-End Skills :** HTML, CSS, SCSS, JavaScript
-### ✔  **💻Back-End Skills :** Node.js, MongoDB
+### ✔  **🔧 Back-End Skills :** Node.js, MongoDB
 ### ✔  **🚀 Frameworks & Libraries :** React.js, React Native
 ### ✔  **🎨 UI/UX :** Tailwind CSS, Bootstrap
 ### ✔  **🧠 State Management :** Redux, React Query
