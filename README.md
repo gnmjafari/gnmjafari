@@ -7,13 +7,13 @@
 ### About 📌
 
 ### ✔  **💻 Domain :** Full-Stack Web Development 
-### ✔  **🔧 Front-End Skills :** HTML, CSS, SCSS, JavaScript
+### ✔  **🔧 Front-End Skills :** HTML, CSS, SCSS, JavaScript, TypeScript
 ### ✔  **🔧 Back-End Skills :** Node.js, MongoDB
-### ✔  **🚀 Frameworks & Libraries :** React.js, React Native
+### ✔  **🚀 Frameworks & Libraries :** React.js, React Native, NextJs
 ### ✔  **🎨 UI/UX :** Tailwind CSS, Bootstrap
 ### ✔  **🧠 State Management :** Redux, React Query
 ### ✔  **🌐 API Integrations :** Axios
-### ✔  **Learning :** solidity
+### ✔  **🌐 Blockchin :** Solidity, Hardhat, Truffle
 ### ✔  **Hobbies :**  Read 📕, Work out 💪, Music 🎧
 
 <hr>
@@ -26,6 +26,10 @@
    <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/React Native%20-%23F7DF1E.svg?&style=for-the-badge&color=61DAFB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/NextJs%20-%23F7DF1E.svg?&style=for-the-badge&color=61DAFB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Solidity%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Truffle%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Hardhat%20-%23F7DF1E.svg?&style=for-the-badge&color=61DAFB" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Taildwindcss%20-%23F7DF1E.svg?&style=for-the-badge&color=CD6799" />&nbsp;&nbsp;
